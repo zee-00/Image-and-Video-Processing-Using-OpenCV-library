@@ -1,4 +1,5 @@
 **Image and Video Processing**
+
 Image and video processing techniques using the OpenCV library in Python. OpenCV is a powerful open-source computer vision and image processing 
 library widely used in various applications, including robotics, surveillance, and augmented reality.
 
@@ -7,6 +8,7 @@ library widely used in various applications, including robotics, surveillance, a
 2) Video Processing: Processing of video streams, including reading, displaying, and writing videos, as well as basic operations like record your webcam, etc.
 
 **Face Detection with OpenCV**
+
 This project demonstrates face detection using the OpenCV library in Python. OpenCV is a powerful open-source computer vision and image processing library widely used in various applications, including face detection, object tracking, and augmented reality.
 
 **Features**
